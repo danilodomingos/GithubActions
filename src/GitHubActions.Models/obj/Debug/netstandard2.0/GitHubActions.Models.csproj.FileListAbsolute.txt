@@ -1,0 +1,8 @@
+/home/danilo/Documents/dotnet/GithubActions/src/GitHubActions.Models/bin/Debug/netstandard2.0/GitHubActions.Models.deps.json
+/home/danilo/Documents/dotnet/GithubActions/src/GitHubActions.Models/bin/Debug/netstandard2.0/GitHubActions.Models.dll
+/home/danilo/Documents/dotnet/GithubActions/src/GitHubActions.Models/bin/Debug/netstandard2.0/GitHubActions.Models.pdb
+/home/danilo/Documents/dotnet/GithubActions/src/GitHubActions.Models/obj/Debug/netstandard2.0/GitHubActions.Models.csprojAssemblyReference.cache
+/home/danilo/Documents/dotnet/GithubActions/src/GitHubActions.Models/obj/Debug/netstandard2.0/GitHubActions.Models.AssemblyInfoInputs.cache
+/home/danilo/Documents/dotnet/GithubActions/src/GitHubActions.Models/obj/Debug/netstandard2.0/GitHubActions.Models.AssemblyInfo.cs
+/home/danilo/Documents/dotnet/GithubActions/src/GitHubActions.Models/obj/Debug/netstandard2.0/GitHubActions.Models.dll
+/home/danilo/Documents/dotnet/GithubActions/src/GitHubActions.Models/obj/Debug/netstandard2.0/GitHubActions.Models.pdb
